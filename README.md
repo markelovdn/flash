@@ -1,6 +1,6 @@
 # flash - the ability to create simple flash messages
 
-# install - copy this file in your directory
+# install - copy FlashMessage.php and configFlashMessage.php in your directory
 
 # desription 
 This library allows you to install and display flash messages. There is an opportunity to create your own messages, or to output them from the configuration file, having previously written in the array "name" => "message".
